@@ -21,13 +21,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/heitor/BACKUP_25_04_2023/STUDY/UDEMY/PYTHON/quiz_game_python&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/heitor/BACKUP_25_04_2023/STUDY/UDEMY/PYTHON/quiz_game_python"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration default="true" type="docs" factoryName="Docutils task">
       <module name="quiz-game-start" />
